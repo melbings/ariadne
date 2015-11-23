@@ -1,0 +1,39 @@
+{
+  "name": "Ariadne",
+  "version": "1.1.2",
+  "repository": "melbings/ariadne",
+  "description": "A learning environment for teaching maze solving algorithms",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "babel-polyfill": "^6.1.4",
+    "blockly": "google/blockly",
+    "font-awesome": "^4.4.0",
+    "jquery": "^2.1.4",
+    "lodash": "^3.10.1",
+    "normalize.css": "^3.0.3",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babelify": "^6.3.0",
+    "browserify": "^11.2.0",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-replace": "^0.5.4",
+    "gulp-sass": "^2.0.4",
+    "gulp-uglify": "^1.4.1",
+    "gulp-zip": "^3.0.2",
+    "napa": "^1.2.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "yargs": "^3.27.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "napa"
+  },
+  "napa": {
+    "jsinterpreter": "NeilFraser/JS-Interpreter"
+  },
+  "author": "Stefan Melbinger <stefan.melbinger@gmail.com>",
+  "license": "ISC"
+}
