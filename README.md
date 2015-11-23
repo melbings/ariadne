@@ -1,6 +1,6 @@
 # Ariadne
 
-Ariadne is a learning environment for teaching maze algorithms. It was written in 2015 by Stefan Melbinger as part of his master thesi.
+Ariadne is a learning environment for teaching maze algorithms. It was written in 2015 by Stefan Melbinger as part of his master thesis.
 
 ## Requirements
 
