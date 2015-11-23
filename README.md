@@ -2,6 +2,8 @@
 
 Ariadne is a learning environment for teaching maze algorithms. It was written in 2015 by Stefan Melbinger as part of his master thesis.
 
+Ariadne can be accessed [online](http://ariadne.melbinger.org/).
+
 ## Requirements
 
 - NodeJS 0.12.3
