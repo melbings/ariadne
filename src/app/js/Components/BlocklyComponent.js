@@ -33,6 +33,11 @@ export default React.createClass({
 
     setReadOnly: function (readOnly) {
         this._workspace.options.readOnly = readOnly;
+        if (readOnly) {
+            $('.blocklyToolboxDiv').hide();
+        } else {
+            $('.blocklyToolboxDiv').show();
+        }
     },
 
     // REACT CODE BELOW
